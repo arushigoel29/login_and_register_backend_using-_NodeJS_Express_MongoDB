@@ -27,6 +27,7 @@ bcrypt: Library for password hashing.
 jsonwebtoken (JWT): Library for secure token generation and validation.
 
 
+
 Folder Structure
 
 controllers/: Contains logic for user registration and login.
