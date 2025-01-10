@@ -15,18 +15,28 @@ Error Handling: Includes comprehensive error handling for database operations an
 Tech Stack
 
 Node.js: Backend runtime environment.
+
 Express.js: Web framework for building RESTful APIs.
+
 MongoDB: NoSQL database for data persistence.
+
 Mongoose: ODM library for MongoDB.
+
 bcrypt: Library for password hashing.
+
 jsonwebtoken (JWT): Library for secure token generation and validation.
+
 
 Folder Structure
 
 controllers/: Contains logic for user registration and login.
+
 models/: Defines the user schema and methods for password hashing and comparison.
+
 routes/: Handles API endpoints for user registration and login.
+
 config/: Database connection logic.
+
 server.js: Main entry point of the application.
 
 How to Run
